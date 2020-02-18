@@ -36,5 +36,20 @@
     transform: rotate(360deg);
   }
 }
-
+h1{
+  border: solid 2px white;
+  background-color: red;
+  border-radius: 20px;
+  padding: 10px;
+}
+body {
+  background-color: black;
+  color: white;
+}
+p{
+  color: white;
+}
+a{
+  color: white;
+}
 
